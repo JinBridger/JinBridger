@@ -1,6 +1,6 @@
-![mod](https://github.com/JinBridger/JinBridger/assets/89779290/e1eea221-1827-448b-b7b1-8cd7547a2d51)
+![Ling and Chongyue](https://github.com/JinBridger/JinBridger/assets/89779290/bb10497e-0e04-4374-9d73-0f2c5bc59dce)
 
-### Hi there 👋 Welcome to my profile! 欢迎来到我的个人资料！
+### Hi there! 👋  你好！
 
 [![GitHub](https://img.shields.io/badge/GitHub-JinBridger-brightgreen.svg)](https://github.com/JinBridger)
 [![Blog](https://img.shields.io/badge/Blog-JinBridger-informational.svg)](https://github.com/JinBridger)
