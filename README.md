@@ -3,8 +3,8 @@
 ### Hi there! 👋  你好！
 
 [![GitHub](https://img.shields.io/badge/GitHub-JinBridger-brightgreen.svg)](https://github.com/JinBridger)
-[![Blog](https://img.shields.io/badge/Blog-JinBridger-informational.svg)](https://github.com/JinBridger)
-[![Mail](https://img.shields.io/badge/Mail-jinqiao@seu.edu.cn-important.svg)](https://github.com/JinBridger)
+[![Blog](https://img.shields.io/badge/Blog-JinBridger-informational.svg)](http://jinbridger.github.io)
+[![Mail](https://img.shields.io/badge/Mail-jinqiao@seu.edu.cn-important.svg)](mailto:jinqiao@seu.edu.cn)
 
 - 📚 I’m currently working on my studies in Southeast University.
 - 🌱 I’m currently interested in High Performance Computing.
