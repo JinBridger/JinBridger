@@ -7,6 +7,7 @@
 [![Mail](https://img.shields.io/badge/Mail-jinqiao@seu.edu.cn-important.svg)](mailto:jinqiao@seu.edu.cn)
 
 - 📚 I’m currently working on my studies in Southeast University.
+- 💼 I'm currently working as an intern at Intel.
 - 🌱 I’m currently interested in High Performance Computing.
 - 📖 I sometimes will share labworks in SEU.
 - ⭐ Give me a star if you like my repository!
