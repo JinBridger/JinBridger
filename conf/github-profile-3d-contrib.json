@@ -11,17 +11,14 @@
     "contribColors": ["#efefef", "#d8e887", "#8cc569", "#47a042", "#1d6a23"]
   },
   {
-    "type": "rainbow",
+    "type": "normal",
     "fileName": "night.svg",
-    "backgroundColor": "#00000f",
+    "backgroundColor": "#0e1116",
     "foregroundColor": "#eeeeff",
     "strongColor": "rgb(255,200,55)",
     "weakColor": "#aaaaaa",
     "radarColor": "rgb(255,200,55)",
     "growingAnimation": true,
-    "saturation": "50%",
-    "contribLightness": ["20%", "30%", "35%", "40%", "50%"],
-    "duration": "10s",
-    "hueRatio": -7
+    "contribColors": ["#171b21", "#1f432b", "#2e6b38", "#52a44e", "#6cd064"]
   }
 ]
