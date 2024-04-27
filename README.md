@@ -1,7 +1,12 @@
 ![Ling and Chongyue](https://i.imgur.com/gch9yHF.png)
 
-[![Blog](https://img.shields.io/badge/Blog-JinBridger-informational.svg)](http://jinbridger.github.io)
-[![Mail](https://img.shields.io/badge/Mail-jinqiao@seu.edu.cn-important.svg)](mailto:jinqiao@seu.edu.cn)
+<p align="center">
+  <samp>
+    <a href="https://jinbridger.github.io">blog</a> .
+    <a href="https://github.com/JinBridger/cv">cv</a> .
+    <a href="mailto:jinqiao@seu.edu.cn">mail</a>
+  </samp>
+</p>
 
 <samp>Hi!👋 Welcome to My GitHub Profile!</samp>
 
