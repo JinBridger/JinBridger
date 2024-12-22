@@ -1,4 +1,4 @@
-![Ling, Cantabile and Mulberry](https://i.imgur.com/jpS2YpR.png)
+![Final Fantasy VII Remake](https://i.imgur.com/EeyEKSD.jpg)
 
 <p align="center">
   <samp>
