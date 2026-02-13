@@ -1,4 +1,4 @@
-![Final Fantasy VII Remake](https://i.imgur.com/EeyEKSD.jpg)
+![Final Fantasy VII Remake](ff7re.jpg)
 
 <p align="center">
   <samp>
